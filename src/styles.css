@@ -109,3 +109,7 @@ body {
     margin-bottom: 20px;
   
   }
+  p {
+    text-align: center;
+    font-size: 12px;
+  }
